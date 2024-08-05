@@ -1,6 +1,6 @@
 ## Hi there 👋😍
 
-# About me: <h1>
+## About me: <h2>
 
 - 🪪 I don't currently work at anything.
 - 💻 I’m currently studying technical in systems development.
