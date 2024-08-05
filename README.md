@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋😍
 
 - 🪪 I don't currently work at anything.
 - 💻 I’m currently studying technical in systems development.
