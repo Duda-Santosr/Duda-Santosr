@@ -1,5 +1,7 @@
 ## Hi there 👋😍
 
+# About me: <h1>
+
 - 🪪 I don't currently work at anything.
 - 💻 I’m currently studying technical in systems development.
 - 🌱 I’m currently learning English.
