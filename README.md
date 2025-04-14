@@ -1,11 +1,12 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Maria Eduarda dos Santos Rosa and my nickname is "Duda"!
 
-* 📚Eu estudo no Sesi e no Senai 
-* 🤩Estou cursando o Ensino Médio e o curso técnico de desenvolvimento de sistemas no Senai 
-* ✍️Habilidades: Css, HTML,Js,PHP, Canva, Figma e Git 
-* 📱Gmail:madusantosrosa101@gmail.com
-* 📍Localização:ABC-SP
+* 📚Eu estudo no Sesi e no Senai;
+* 🤩Estou cursando o Ensino Médio e o curso Técnico de Desenvolvimento de Sistemas no Senai;
+* 🧠Atualemnte faço curso de Inglês;
+* ✍️Habilidades: Css, HTML,Js,PHP, Canva, Figma e Git;
+* 📱Gmail:madusantosrosa101@gmail.com;
+* 📍Localização:ABC-SP.
 
   ## Habilidades
 
