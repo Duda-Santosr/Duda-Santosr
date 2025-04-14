@@ -3,7 +3,7 @@
 
 * 📚Eu estudo no Sesi e no Senai;
 * 🤩Estou cursando o Ensino Médio e o curso Técnico de Desenvolvimento de Sistemas no Senai;
-* 🧠Atualemnte faço curso de Inglês;
+* 🧠Atualmente faço curso de Inglês;
 * ✍️Habilidades: Css, HTML,Js,PHP, Canva, Figma e Git;
 * 📱Gmail:madusantosrosa101@gmail.com;
 * 📍Localização:ABC-SP.
