@@ -25,11 +25,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40" />
 
-  ## Graficos
- <div>
-  <a href="https://github.com/seu-usuário-aqui">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasBorba&layout=compact&langs_count=7&theme=dracula"/>
- </div>
+  ## Gráficos
+   <div>
+    <a href="https://github.com/seu-usuário-aqui">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasBorba&layout=compact&langs_count=7&theme=dracula"/>
+   </div>
 
 
 
