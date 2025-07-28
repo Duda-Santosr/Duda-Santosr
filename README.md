@@ -1,12 +1,13 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Maria Eduarda dos Santos Rosa and my nickname is "Duda"!
+### Estudante de Desenvolvimento de Sistemas 👩‍💻
+🎓 Me chamo Maria Eduarda dos Santos Rosa, mas pode me chamar de Duda!  
+Atualmente estudo no **SESI** e faço curso técnico em **Desenvolvimento de Sistemas** no **SENAI**.  
+📚 Também estou aprimorando meu inglês e desenvolvendo habilidades em design e programação. 
 
-* 📚Eu estudo no Sesi e no Senai;
-* 🤩Estou cursando o Ensino Médio e o curso Técnico de Desenvolvimento de Sistemas no Senai;
-* 🧠Atualmente faço curso de Inglês;
-* ✍️Habilidades: Css, HTML, Js, PHP, Canva, Figma e Git;
-* 📱Gmail: madusantosrosa101@gmail.com;
-* 📍Localização: ABC-SP.
+📍 ABC - São Paulo  
+📩 Contato: madusantosrosa101@gmail.com
+
+---
 
   ## Habilidades
 
@@ -31,20 +32,17 @@
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasBorba&layout=compact&langs_count=7&theme=dracula"/>
    </div>
 
+   ## 🏆 Projeto em Destaque
+
+[🎬 CineHome - Sistema de Locadora](https://github.com/Duda-Santosr/CineHome)  
+Sistema web feito com HTML, CSS, PHP e Bootstrap.  
+Inclui formulários de cadastro, cards dinâmicos, sinopse em modal, login de usuário e controle de itens.
 
 
-# 👩‍💻 Olá, eu sou a Duda!
-### Estudante de Desenvolvimento de Sistemas | Front-end em formação 🚀
 
-🎓 Me chamo Maria Eduarda dos Santos Rosa, mas pode me chamar de Duda!  
-Atualmente estudo no **SESI** e faço curso técnico em **Desenvolvimento de Sistemas** no **SENAI**.  
-📚 Também estou aprimorando meu inglês e desenvolvendo habilidades em design e programação.  
-✨ Tenho interesse especial por desenvolvimento web, UI/UX e projetos criativos.
 
-📍 ABC - São Paulo  
-📩 Contato: madusantosrosa101@gmail.com
 
----
+
 
 ## 💻 Tecnologias que conheço
 
@@ -75,11 +73,6 @@ Atualmente estudo no **SESI** e faço curso técnico em **Desenvolvimento de Sis
 
 ---
 
-## 🏆 Projeto em Destaque
-
-[🎬 CineHome - Sistema de Locadora](https://github.com/Duda-Santosr/CineHome)  
-Sistema web feito com HTML, CSS, PHP e Bootstrap.  
-Inclui formulários de cadastro, cards dinâmicos, sinopse em modal, login de usuário e controle de itens.
 
 ---
 
