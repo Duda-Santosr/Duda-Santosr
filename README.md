@@ -1,6 +1,7 @@
 <img width="1584" height="396" alt="Fundo_Linkedin" src="https://github.com/user-attachments/assets/c024c962-0c0d-4ed8-b0c0-36973d2d7713" />
 
 # Sobre mim 👩
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Sobre+mim+👩)](https://git.io/typing-svg)
 ### Estudante de Desenvolvimento de Sistemas 👩‍💻
 🎓 Me chamo Maria Eduarda dos Santos Rosa, mas pode me chamar de Duda!  
 Atualmente estudo no **SESI** e faço curso técnico em **Desenvolvimento de Sistemas** no **SENAI**.  
