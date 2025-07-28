@@ -38,7 +38,7 @@ Atualmente estudo no **SESI** e faço curso técnico em **Desenvolvimento de Sis
 
 ## 🌐 Conecte-se comigo
 
-![Gmail Badge](https://img.shields.io/badge/-madusantosrosa101@gmail.com-red?style=flat&logo=Gmail&logoColor=white)
+![Gmail Badge](https://img.shields.io/badge/-maria.e.santosr13@gmail.com-red?style=flat&logo=Gmail&logoColor=white)
 
 
 
