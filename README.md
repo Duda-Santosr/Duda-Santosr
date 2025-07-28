@@ -5,8 +5,10 @@ Atualmente estudo no **SESI** e faço curso técnico em **Desenvolvimento de Sis
 📚 Também estou aprimorando meu inglês e desenvolvendo habilidades em design e programação. 
 
 📍 ABC - São Paulo  
-📩 Contato: madusantosrosa101@gmail.com
 
+## 🌐 Conecte-se comigo
+
+![Gmail Badge](https://img.shields.io/badge/-madusantosrosa101@gmail.com-red?style=flat&logo=Gmail&logoColor=white)
 
 
   ## 💻 Tecnologias que conheço
@@ -39,10 +41,7 @@ Atualmente estudo no **SESI** e faço curso técnico em **Desenvolvimento de Sis
   Inclui formulários de cadastro, cards dinâmicos, sinopse em modal, login de usuário e controle de itens.
 
 
-## 🌐 Conecte-se comigo
 
-![Gmail Badge](https://img.shields.io/badge/-madusantosrosa101@gmail.com-red?style=flat&logo=Gmail&logoColor=white)
-![GitHub followers](https://img.shields.io/github/followers/Duda-Santosr?label=Seguidores&style=social)
 
 
 
