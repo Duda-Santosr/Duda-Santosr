@@ -32,7 +32,7 @@ Atualmente estudo no **SESI** e faço curso técnico em **Desenvolvimento de Sis
 
    ## 🏆 Projeto em Destaque
 
-  [🎬 CineHome - Sistema de Locadora]([https://github.com/Duda-Santosr/CineHome](https://github.com/Duda-Santosr/CineHome-Sprint03))  
+  [🎬 CineHome - Sistema de Locadora](https://github.com/Duda-Santosr/CineHome-Sprint03)
   Sistema web feito com HTML, CSS, PHP e Bootstrap.  
   Inclui formulários de cadastro, cards dinâmicos, sinopse em modal, login de usuário e controle de itens.
 
