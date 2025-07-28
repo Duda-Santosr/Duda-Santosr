@@ -7,7 +7,7 @@ Atualmente estudo no **SESI** e faço curso técnico em **Desenvolvimento de Sis
 📍 ABC - São Paulo  
 📩 Contato: madusantosrosa101@gmail.com
 
----
+
 
   ## Habilidades
 
