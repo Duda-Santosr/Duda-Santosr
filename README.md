@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Fundo_Linkedin" src="https://github.com/user-attachments/assets/c024c962-0c0d-4ed8-b0c0-36973d2d7713" />
+
 # 👋 Hello! Welcome to my Github profile.
 ### Estudante de Desenvolvimento de Sistemas 👩‍💻
 🎓 Me chamo Maria Eduarda dos Santos Rosa, mas pode me chamar de Duda!  
